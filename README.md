@@ -10,7 +10,7 @@ Allows the user to analyze Twitter sentiment based on selected time event  and v
 
 #### Project Report:
 
-[Report](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/project_report/time-based-analysis.pdf)
+[Report](https://github.com/kartik-joshi/Time-based-sentiment-analysis-on-twitter-data/blob/master/project_report/time-based-analysis.pdf)
 
 ## 1. Introduction:
 
@@ -78,9 +78,9 @@ Once we have all the processed information we can visualize the results based on
 
 ## 5. Results
 
-![Graph1](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/results/graph1.png)
-![Graph2](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/results/graph2.png)
-![Graph3](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/results/graph3.png)
-![Graph4](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/results/graph4.png)
-![Graph5](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/results/graph5.png)
-![Graph6](https://github.com/Bhushan-Jagtap-2013/Time-based-sentiment-analysis-twitter/blob/master/results/graph6.png)
+![Graph1](https://github.com/kartik-joshi/Time-based-sentiment-analysis-on-twitter-data/blob/master/results/graph1.png)
+![Graph2](https://github.com/kartik-joshi/Time-based-sentiment-analysis-on-twitter-data/blob/master/results/graph2.png)
+![Graph3](https://github.com/kartik-joshi/Time-based-sentiment-analysis-on-twitter-data/blob/master/results/graph3.png)
+![Graph4](https://github.com/kartik-joshi/Time-based-sentiment-analysis-on-twitter-data/blob/master/results/graph4.png)
+![Graph5](https://github.com/kartik-joshi/Time-based-sentiment-analysis-on-twitter-data/blob/master/results/graph5.png)
+![Graph6](https://github.com/kartik-joshi/Time-based-sentiment-analysis-on-twitter-data/blob/master/results/graph6.png)
